@@ -9,7 +9,7 @@ import os
 
 
 #link = 'https://www.eventbrite.com/e/austin-area-jazz-festival-2019-tickets-68815754775?aff=ebdssbdestsearch'
-link = 'https://www.eventbrite.com/e/aaaa-tickets-82924364005'
+link = 'https://www.eventbrite.com/e/x-ica-the-official-jhalak-afterparty-tickets-81235865661'
 
 
 ticket_x = '/html/body/main/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/div/div/div/div/form/span/span/button'
